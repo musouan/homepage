@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hugo-vue-mix.netlify.com/post/test2/</loc>
+    <loc>http://musouan.github.io/post/test2/</loc>
     <lastmod>2017-09-06T18:39:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo-vue-mix.netlify.com/post/test1/</loc>
+    <loc>http://musouan.github.io/post/test1/</loc>
     <lastmod>2017-09-06T18:19:23+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo-vue-mix.netlify.com/%E7%84%A1%E5%8F%8C%E5%BA%B5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</loc>
+    <loc>http://musouan.github.io/%E7%84%A1%E5%8F%8C%E5%BA%B5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</loc>
     <lastmod>2017-09-06T18:19:23+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo-vue-mix.netlify.com/categories/</loc>
+    <loc>http://musouan.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hugo-vue-mix.netlify.com/post/</loc>
+    <loc>http://musouan.github.io/post/</loc>
     <lastmod>2017-09-06T18:39:25+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hugo-vue-mix.netlify.com/tags/</loc>
+    <loc>http://musouan.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hugo-vue-mix.netlify.com/</loc>
+    <loc>http://musouan.github.io/</loc>
     <lastmod>2017-09-06T18:39:25+09:00</lastmod>
     <priority>0</priority>
   </url>
