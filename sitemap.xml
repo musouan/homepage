@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hugo-vue-mix.netlify.com/post/test2/</loc>
+    <lastmod>2017-09-06T18:39:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-vue-mix.netlify.com/post/test1/</loc>
+    <lastmod>2017-09-06T18:19:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-vue-mix.netlify.com/%E7%84%A1%E5%8F%8C%E5%BA%B5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</loc>
+    <lastmod>2017-09-06T18:19:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-vue-mix.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-vue-mix.netlify.com/post/</loc>
+    <lastmod>2017-09-06T18:39:25+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-vue-mix.netlify.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-vue-mix.netlify.com/</loc>
+    <lastmod>2017-09-06T18:39:25+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

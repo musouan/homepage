@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>無双庵HP</title>
+    <link>https://hugo-vue-mix.netlify.com/</link>
+    <description>Recent content on 無双庵HP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Sep 2017 18:39:25 +0900</lastBuildDate>
+    
+	<atom:link href="https://hugo-vue-mix.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test2</title>
+      <link>https://hugo-vue-mix.netlify.com/post/test2/</link>
+      <pubDate>Wed, 06 Sep 2017 18:39:25 +0900</pubDate>
+      
+      <guid>https://hugo-vue-mix.netlify.com/post/test2/</guid>
+      <description> Test 2 </description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>https://hugo-vue-mix.netlify.com/post/test1/</link>
+      <pubDate>Wed, 06 Sep 2017 18:19:23 +0900</pubDate>
+      
+      <guid>https://hugo-vue-mix.netlify.com/post/test1/</guid>
+      <description>Test 1 Normal content.</description>
+    </item>
+    
+    <item>
+      <title>無双庵について</title>
+      <link>https://hugo-vue-mix.netlify.com/%E7%84%A1%E5%8F%8C%E5%BA%B5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+      <pubDate>Wed, 06 Sep 2017 18:19:23 +0900</pubDate>
+      
+      <guid>https://hugo-vue-mix.netlify.com/%E7%84%A1%E5%8F%8C%E5%BA%B5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
+      <description>越前御蕎麦処 無双庵 たかが そば されど 蕎麦</description>
+    </item>
+    
+  </channel>
+</rss>
